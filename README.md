@@ -52,4 +52,4 @@ Covers all important topics with concise explanations, examples, and practice qu
 
 1. Clone or download the repo  
    ```bash
-   git clone https://github.com/yourusername/CS-Core-Interview-Prep.git
+   git clone https://github.com/yourusername/CS-Core-Interview-Preparation.git
