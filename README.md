@@ -1,4 +1,4 @@
-# CS-Core-Interview-Prep 🚀
+# CS-Core-Interview-Notes 🚀
 
 A complete guide to **Core Computer Science Subjects** for technical interviews and placements.  
 Covers all important topics with concise explanations, examples, and practice questions.
@@ -52,4 +52,4 @@ Covers all important topics with concise explanations, examples, and practice qu
 
 1. Clone or download the repo  
    ```bash
-   git clone https://github.com/yourusername/CS-Core-Interview-Preparation.git
+   git clone https://github.com/yourusername/CS-Core-Interview-Notes.git
